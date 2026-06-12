@@ -1,12 +1,12 @@
 {
-  "version": "0.1.578",
+  "version": "0.1.579",
   "description": "AskWashU APIM Explorer — chat, MCP test bench, and a local API proxy so any OpenAI/Anthropic/Google tool can use the WashU gateway.",
   "homepage": "https://github.com/ta-tools/oliver-release",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ta-tools/oliver-release/releases/download/v0.1.578/Oliver-0.1.578-win-x64.zip",
-      "hash": "eb11811656d8d8cb8592b98abc9f88a48d21e2a22ff68733f145fd68ba5578c8",
+      "url": "https://github.com/ta-tools/oliver-release/releases/download/v0.1.579/Oliver-0.1.579-win-x64.zip",
+      "hash": "c47a3073a319558d8d41262637241b3119e8917fd875027e7743a92d3bb0371b",
       "extract_dir": "win-x64"
     }
   },
